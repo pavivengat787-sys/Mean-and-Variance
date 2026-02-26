@@ -49,14 +49,21 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ***
+
+
 import numpy as np
 L = [int(i) for i in input("Enter arrival data: ").split()]
 
 N = len(L)
+
 M = max(L)
+
 X = []
+
 f = []
+
 for i in range(M + 1):
+
     c = 0
     for j in range(N):
         if L[j] == i:
@@ -80,6 +87,9 @@ print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 
 ***
+
+
+
 # Output : 
 
 <img width="1460" height="858" alt="{69AA1D26-E5E5-45D4-9392-9653CE2D2892}" src="https://github.com/user-attachments/assets/fda8be24-43b5-43a5-a802-d1a3d72ac586" />
