@@ -1,6 +1,5 @@
 #  Mean and variance of a discrete  distribution
 
-
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
@@ -23,7 +22,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ![image](https://user-images.githubusercontent.com/103921593/192938695-99fedc01-34d5-4d36-84df-5880e766ed0c.png)
 
-https://github.com/pavivengat787-sys/Mean-and-Variance
+
 # Procedure :
 
 1. Construct frequency distribution for the data
@@ -75,12 +74,8 @@ print(f"\nThe Mean arrival rate is {mean:.3f}")
 print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 ```
-
-
-
 # Output : 
-
 <img width="1460" height="858" alt="{69AA1D26-E5E5-45D4-9392-9653CE2D2892}" src="https://github.com/user-attachments/assets/fda8be24-43b5-43a5-a802-d1a3d72ac586" />
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
-https://github.com/pavivengat787-sys/Mean-and-Variance
+
