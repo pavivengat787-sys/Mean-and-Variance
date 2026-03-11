@@ -44,7 +44,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Experiment :
 
-
+# Results :
+The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 # Program :
 ```
 import numpy as np
@@ -76,6 +77,5 @@ print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 ```
 # Output : 
 <img width="1460" height="858" alt="{69AA1D26-E5E5-45D4-9392-9653CE2D2892}" src="https://github.com/user-attachments/assets/fda8be24-43b5-43a5-a802-d1a3d72ac586" />
-# Results :
-The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
+
 
